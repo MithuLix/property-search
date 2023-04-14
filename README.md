@@ -1,6 +1,6 @@
 # NextJS Property-search App
 
-<img src="https://photos.app.goo.gl/sT4uGsKY53q5qqSM6" width="500">
+<img src="https://ibb.co/C0wmf5Q" width="500">
 
 A real estate property listing website that lets users find properties for sale and for rent in the United Arab Emirates(UAE).<br/>
 The user can view a few featured listings on the home page grouped by purpose(for sale or for rent).<br/>
