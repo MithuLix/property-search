@@ -1,6 +1,6 @@
 # NextJS Property-search App
 
-<img src="screenshots/Realtor2.png" width="500">
+<img src="https://photos.app.goo.gl/sT4uGsKY53q5qqSM6" width="500">
 
 A real estate property listing website that lets users find properties for sale and for rent in the United Arab Emirates(UAE).<br/>
 The user can view a few featured listings on the home page grouped by purpose(for sale or for rent).<br/>
@@ -14,4 +14,4 @@ This web app was built with:
 * Chakra UI
 * Rapid API
 
-Click <a href="https://realtor-nextjs-tau.vercel.app/" target="_blank">here</a> to try out the app for yourself.
+<button> <a href="https://property-search-eta.vercel.app/" target="_blank">Click here</a></button>to check it out..
