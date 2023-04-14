@@ -1,4 +1,4 @@
-# NextJS Realtor App
+# NextJS Property-search App
 
 <img src="screenshots/Realtor2.png" width="500">
 
